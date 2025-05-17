@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/nausherwannasirweb/static/css/main.87b5c9a4.css",
+    "main.js": "/nausherwannasirweb/static/js/main.087ffdc0.js",
+    "static/css/64.bba8fa55.chunk.css": "/nausherwannasirweb/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/nausherwannasirweb/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/nausherwannasirweb/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/nausherwannasirweb/static/js/769.bda0d7b7.chunk.js",
+    "static/media/dukelogo.png": "/nausherwannasirweb/static/media/dukelogo.9238107fdfa15e5bed6c.png",
+    "static/media/Montserrat-Regular.ttf": "/nausherwannasirweb/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/unblogo.png": "/nausherwannasirweb/static/media/unblogo.99c464e4fb4ec1783d50.png",
+    "static/media/Agustina.woff": "/nausherwannasirweb/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/airflerlogo.png": "/nausherwannasirweb/static/media/airflerlogo.93e0873b0c239bac3aa4.png",
+    "static/media/manOnTable.svg": "/nausherwannasirweb/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/nausherwannasirweb/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/infoseclogo.png": "/nausherwannasirweb/static/media/infoseclogo.501ca6cad9f27ef1bcb5.png",
+    "static/media/developerActivity.svg": "/nausherwannasirweb/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/aieseclogo.png": "/nausherwannasirweb/static/media/aieseclogo.1b1e019b6fda518bc1a1.png",
+    "static/media/typescriptlogo.png": "/nausherwannasirweb/static/media/typescriptlogo.dc40293c3bb097e53361.png",
+    "static/media/ibmlogo.png": "/nausherwannasirweb/static/media/ibmlogo.5934bfec7b19b98b206a.png",
+    "static/media/uilogo.png": "/nausherwannasirweb/static/media/uilogo.0854b5de4994855818c6.png",
+    "static/media/scamshieldlogo.png": "/nausherwannasirweb/static/media/scamshieldlogo.91da3d9d79c04d8354ac.png",
+    "static/media/skill.svg": "/nausherwannasirweb/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/googlelogo.webp": "/nausherwannasirweb/static/media/googlelogo.c920552d98e3ca0c9df5.webp",
+    "static/media/resume.pdf": "/nausherwannasirweb/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/nausherwannasirweb/index.html",
+    "static/media/talksCardBack.svg": "/nausherwannasirweb/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.87b5c9a4.css.map": "/nausherwannasirweb/static/css/main.87b5c9a4.css.map",
+    "main.087ffdc0.js.map": "/nausherwannasirweb/static/js/main.087ffdc0.js.map",
+    "64.bba8fa55.chunk.css.map": "/nausherwannasirweb/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/nausherwannasirweb/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/nausherwannasirweb/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/nausherwannasirweb/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b5c9a4.css",
+    "static/js/main.087ffdc0.js"
+  ]
+}
